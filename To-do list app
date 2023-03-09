@@ -1,0 +1,29 @@
+DESCRIPTION
+
+A to-do list application is a digital tool designed to help individuals or teams organize and manage tasks and responsibilities. 
+This application typically features a user-friendly interface that allows users to create, edit, and prioritize tasks in a simple and efficient manner.
+At the heart of the to-do list application is the task list, where users can create new tasks, set due dates and reminders, and assign them to specific categories or projects.
+To make task management even easier, many to-do list applications allow users to set recurring tasks or create templates for frequently recurring tasks. Users can also sort tasks by priority, due date, or category, and filter them by various criteria such as status or assignee.
+In addition to these basic features, many to-do list applications also offer advanced functionalities such as collaboration tools, integrations with other productivity apps, and analytics to help users track their progress and identify areas for improvement.
+Overall, a to-do list application can be an invaluable tool for anyone looking to boost their productivity and stay organized in their personal or professional life. 
+With its intuitive interface and powerful features, it can help users streamline their workflow, reduce stress, and achieve their goals more efficiently.
+
+DATA USED
+
+(i) Task Name: The name or description of the task that needs to be accomplished.
+
+(ii) Due Date/Time: The deadline or target date/time by which the task needs to be completed.
+
+(iii) Priority Level: The importance or urgency level of the task, such as high, medium, or low.
+
+(iv) Status: The current status of the task, such as "in progress," "completed," or "overdue."
+
+(v) Category/Tag: The category or tag assigned to the task, such as personal, work, health, or finance.
+
+(vi) Notes/Comments: Additional information or comments related to the task, such as specific instructions, ideas, or resources.
+
+(vii) Reminders: Notifications or alerts that remind the user of upcoming or overdue tasks.
+
+(viii) Assignee: The person or team responsible for completing the task.
+
+(ix) Attachments: Any files or links related to the task, such as documents, images, or websites.
